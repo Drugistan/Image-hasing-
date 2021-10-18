@@ -2,11 +2,7 @@ import os
 import hashlib
 import datetime
 
-#   @GCT
-#   @PrinceMughal_
-#   @LinuxPython
-#   Date[DD-MM-YY] 23-04-20
-#   Time 01:44am THUR
+
 
 
 class ImageHashHandler:
